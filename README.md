@@ -1,6 +1,6 @@
 <h1>Hi dear <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" height="30px">, I'm Matheus Aguiar</h1>
 
-<img src="https://komarev.com/ghpvc/?username=theprogmatheus&color=green" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=theprogmatheus&color=yellow" alt="Profile views">
 
 - <img height="18px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/flag-brazil_1f1e7-1f1f7.png" alt="BRFlag"> Brazil, 23y
 - 🔭I'm not working yet, but I'm looking for opportunities...
