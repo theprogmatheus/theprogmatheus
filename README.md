@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @theprogmatheus (Matheus)
-- 👀 I’m interested in games and movies
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me in Brazil
+<h1 align="left">Hi dear <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="15px" />, I'm Matheus Aguiar</h1>
 
-<!---
-theprogmatheus/theprogmatheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p> <img src="https://komarev.com/ghpvc/?username=theprogmatheus&color=blue" alt="Profile views" /></p>
