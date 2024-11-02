@@ -2,11 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=theprogmatheus&color=blue" alt="Profile views">
 
-- <img height="18px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/whatsapp/326/flag-brazil_1f1e7-1f1f7.png" alt="BRFlag"> Brazil, 23y
+- 📍 Brazil, 25y
 - 🔭I'm not working yet, but I'm looking for opportunities...
-- 🧑‍🎓 Computer science student
+- 🧑‍🎓 Physics student at the Federal University of Goiás (UFG)
 - 🤝 Friendly
-- 💬 Ask me about Java, JavaScript, React, HTML, CSS, PHP, SQL
+- 💬 Ask me about Java, JavaScript, React, Spring, HTML, CSS, PHP, SQL
 
 
 <br><br>
@@ -36,10 +36,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/edition_sr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-edition_sr-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/theprogmatheus" target="_blank">
+<a href="https://linkedin.com/in/omateusaguiar" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-theprogmatheus-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/teteuzin.aguiar" target="_blank">
@@ -47,4 +44,3 @@
 </a>
 </p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=edition_sr&layout=wide&show_reply=off&show_retweet=off" />
