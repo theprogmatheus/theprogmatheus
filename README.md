@@ -3,8 +3,8 @@
 <img src="https://komarev.com/ghpvc/?username=theprogmatheus&color=blue" alt="Profile views">
 
 - 📍 Brazil, 25y
-- 🔭I'm not working yet, but I'm looking for opportunities...
-- 🧑‍🎓 Physics student at the Federal University of Goiás (UFG)
+- 🔭 Looking for opportunities...
+- 🧑‍🎓 Computer Science student at the Federal University of Jataí (UFJ)
 - 🤝 Friendly
 - 💬 Ask me about Java, JavaScript, React, Spring, HTML, CSS, PHP, SQL
 
