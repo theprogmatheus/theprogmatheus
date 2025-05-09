@@ -40,7 +40,7 @@
   <img align="center" src="https://img.shields.io/badge/-theprogmatheus-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/theprogmatheus" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-teteuzin.aguiar-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-theprogmatheus-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
